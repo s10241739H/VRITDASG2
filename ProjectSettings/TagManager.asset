@@ -8,6 +8,7 @@ TagManager:
   - PlayerHand
   - Trash
   - Broom
+  - Key
   layers:
   - Default
   - TransparentFX
